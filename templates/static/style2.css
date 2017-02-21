@@ -1,0 +1,8 @@
+#myPicture{
+	background: no-repeat;
+	margin: 30px;
+}
+#container{
+	display: block;
+	margin: 0 auto;
+}

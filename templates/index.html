@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Game Number 2</title>
+	<link rel="stylesheet" href="static/style.css">
+	<script type="text/javascript" src="main.js"></script>
+	<style type="text/css">
+		#myPicture{
+			height:800px;
+			width:800px;
+			margin-left:495px;
+			margin-bottom:-300px;
+		}
+		#container{
+			margin: 0 auto;
+		}
+		#submit{
+
+		}
+		body{
+			background-color: #FFF;
+		}
+		button{
+			margin: 5px 5px 5px 0;
+			height: 30px;
+			width: 80px;
+			background-color: #EFE7EC;
+		}
+		button:hover{
+			background-color: #ECC6DD;
+		}
+		input{
+			width: 200px;
+			height: 15px;
+		}
+	</style>
+</head>
+<body onload="background()">
+	<div id="container">
+	<div id="myPicture"></div>
+	<form>
+	<input type="text" name="alphabet" id="answer" placeholder="Type Answer Here">
+	</form>
+	<button onclick="check()" type="button">Check</button>
+	<button onclick="background()" type="button">Skip</button>
+	<p id="feedback"></p>
+	</div>
+</body>
+</html>
