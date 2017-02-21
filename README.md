@@ -1,5 +1,6 @@
 # Quack
 **Authors:** Aleeza Ladhani and Ata Gowani
+
 *Developed for HackNYU 2017*
 
 ![Quack Logo](https://cloud.githubusercontent.com/assets/22331338/23172816/19cbc32e-f825-11e6-9632-ff5942be2d22.png)
