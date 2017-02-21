@@ -3,7 +3,6 @@
 *Developed for HackNYU 2017*
 
 ![Quack Logo](https://cloud.githubusercontent.com/assets/22331338/23172816/19cbc32e-f825-11e6-9632-ff5942be2d22.png)
-Format: ![Alt Text](url)
 
 ## Inspiration
 The story is often told of a *Little Ugly Duckling* who didn't fit in with his family. He was not accepted as a beautiful duckling, and was always pushed aside by his brothers, sisters, and everyone around him. This ugly duckling did not get the respect he deserved, but was not alone as almost each duck family has at least one ugly duckling.
